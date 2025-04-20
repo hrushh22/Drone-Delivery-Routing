@@ -1,0 +1,12 @@
+Generation 12: New best distance = 380.36
+Generation 14: New best distance = 371.89
+Generation 15: New best distance = 358.33
+Generation 18: New best distance = 357.63
+Generation 19: New best distance = 349.50
+
+=== Algorithm Comparison ===
+Initial Random Route Distance: 641.17
+Genetic Algorithm Best Distance: 539.27
+Particle Swarm Optimization Best Distance: 527.07
+Ant Colony Optimization Best Distance: 366.64
+Hybrid Approach Best Distance: 349.50

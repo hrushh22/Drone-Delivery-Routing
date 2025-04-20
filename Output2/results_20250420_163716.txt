@@ -1,0 +1,16 @@
+GA Best Distance: 539.27
+
+Running Particle Swarm Optimization...
+PSO Best Distance: 527.07
+
+Running Ant Colony Optimization...
+ACO Best Distance: 366.64
+
+=== Starting Hybrid GA-PSO-ACO Optimization ===
+Generation 1: New best distance = 495.79
+Generation 2: New best distance = 486.39
+Generation 4: New best distance = 463.07
+Generation 5: New best distance = 455.89
+Generation 6: New best distance = 411.03
+Generation 9: New best distance = 407.61
+Generation 11: New best distance = 394.12
